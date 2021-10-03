@@ -22,7 +22,7 @@
 							 
                                 <!-- ÍCONE DE VÍDEO -->
                                 <div class="video-icon">
-                                    <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0" data-animation="bounceIn" data-delay=".4s">
+                                    <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=IN1-ePqhIQU" data-animation="bounceIn" data-delay=".4s">
                                         <i class="fas fa-play"></i>
                                     </a>
                                 </div>
@@ -30,7 +30,7 @@
 								<!-- TEXTINHO NA DIV PRINCIPAL-->
                                 <div class="hero__caption">
                                     <h1 data-animation="fadeInUp" data-delay=".3s">Inclusão e Acessibilidade</h1>
-                                    <p data-animation="fadeInUp" data-delay=".6s">***Software de compartilhamento de depoimentos para Pessoas com Deficiência (PcD)***</p>
+                                    <p data-animation="fadeInUp" data-delay=".6s">Mídia acessível para inclusão e acessibilidade de uma PcD</p>
 						
                                 </div>
 								

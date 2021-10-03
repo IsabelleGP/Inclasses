@@ -22,7 +22,7 @@
 					   <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo">
-                                <a href="../index.php"><img src="../assets/img/logo/logo.png" alt=""></a>
+                                <a href="../index.php"><img src="../assets/img/logo/logo1.png" alt=""></a>
                             </div>
                         </div>
                         
@@ -50,7 +50,7 @@
                                     </nav>
                                 </div>																					
                                 <div class="header-right-btn f-right d-none d-lg-block ml-15">
-                                    <a href="../php/comentarios.php" class="btn header-btn">Realizar um comentário</a>
+                                    <a href="../php/comentarios.php" class="btn header-btn">Fórum de Discussões</a>
                                 </div>
                             </div>
                         </div> 

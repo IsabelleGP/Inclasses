@@ -93,7 +93,7 @@
                         <div class="section-tittle mb-35">
                             <h2>Inclusão e Acessibilidade</h2>
                         </div>
-                        <p class="pera-top mb-40">***Software de compartilhamento de depoimentos para Pessoas com Deficiência (PcD)***</p>
+                        <p class="pera-top mb-40">Mídia acessível para inclusão e acessibilidade de uma PcD</p>
                         <p class="pera-bottom mb-30">descrição do projeto</p>
 						<!--
                         <div class="icon-about">
@@ -236,7 +236,7 @@
                         <div class="section-tittle mb-35">
                             <h2>Comente algo que ache relevante</h2>
                         </div>
-                        <p>Crítica sobre a falta de acessibilidade? Algum depoimento? Feedback sobre o projeto? Esse é um local aberto, sinta-se à vontade para falar o que quiser ;-)</p>
+                        <p>Crítica sobre a falta de acessibilidade? Algum depoimento? Feedback sobre o projeto? Esse é um local aberto, sinta-se à vontade para falar ;-)</p>
                         <a href="../php/comentarios.php" class="border-btn">Faça um comentario</a>
                     </div>
                 </div>
