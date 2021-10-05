@@ -113,21 +113,20 @@
                     <span class="contact-info__icon"><i class="ti-home"></i></span>
                     <div class="media-body">
                         <h3>Campinas, São Paulo</h3>
-                        <p>texto</p>
                     </div>
                 </div>
                 <div class="media contact-info">
                     <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                     <div class="media-body">
-                        <h3>Aplicativo</h3>
-                        <p>Instale agora mesmo no seu celular para maior praticidade!</p>
+                        <h3>Celular</h3>
+                        <p>Teste abrir o site no celular para mais praticidade</p>
                     </div>
                 </div>
                 <div class="media contact-info">
                     <span class="contact-info__icon"><i class="ti-email"></i></span>
                     <div class="media-body">
-                        <h3>texto</h3>
-                        <p>texto</p>
+                        <h3>Alguma dúvida? Contate-nos</h3>
+                        <p>email</p>
                     </div>
                 </div>
             </div>

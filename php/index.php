@@ -3,9 +3,9 @@
 ?>
 
 	
-    <?php
-		include ("menu.php");
-	?>
+<?php
+	include ("menu.php");
+?>
 	
 	
 	
@@ -22,7 +22,7 @@
 							 
                                 <!-- ÍCONE DE VÍDEO -->
                                 <div class="video-icon">
-                                    <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=IN1-ePqhIQU" data-animation="bounceIn" data-delay=".4s">
+                                    <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=lCFZt52Uk1Y" data-animation="bounceIn" data-delay=".4s">
                                         <i class="fas fa-play"></i>
                                     </a>
                                 </div>
@@ -77,7 +77,7 @@
 		<!-- IMAGENS -->
             <div class="col-lg-7 col-md-12">
                 <div class="about-img ">
-                    <img src="../assets/img/gallery/about.png" alt="">
+                    <img src="../assets/img/gallery/acessibilidade.jpg" alt="">
                 </div>
             </div>
 			
@@ -85,17 +85,21 @@
                 <div class="about-caption">
                     <!-- SEGUNDO TÍTULO -->
                     <div class="section-tittle mb-35">
-                        <h2>Título</h2>
+                        <h2>Olá!</h2>
                     </div>
 					
-                    <p class="pera-top mb-40">Texto</p>
-                    <p class="pera-bottom mb-30">Texto</p>
+                    <p class="pera-top mb-40">Seja muito bem vinde a nossa plataforma!</p>
+                    <p class="pera-bottom mb-30">Esse site foi criado por um grupo de 3 discentes do Instituto Federal de Educação, 
+                        Ciência e Tecnologia de São Paulo - Campus Campinas que desenvolveram esse projeto ao longo de 2 anos 
+                        como proposta à matéria de Projeto Integrador III e posteriormente IV do ensino médio integrado ao técnico de informática. 
+                        Tendo como orientador o professor e mestre André Luís Bordignon, o projeto foi desenvolvido com a finalidade de promover 
+                        inclusão e acessibilidade às PcD’s.</p>
 					
-					<!-- ÍCONES -->
+					<!-- ÍCONES 
                     <div class="icon-about">
 						<img src="../assets/img/icon/about1.svg" alt="" class=" mr-20">
 						<img src="../assets/img/icon/about2.svg" alt="">
-					</div>
+					</div> -->
 					
              </div>
          </div>
@@ -106,74 +110,6 @@
 
 
 
-<!-- PARTE 3 -->
-<section class="wantToWork-area section-bg3" data-background="../assets/img/gallery/section_bg01.png">
-    <div class="container">
-        <div class="wants-wrapper w-padding2">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-xl-7 col-lg-9 col-md-8">
-                    <div class="wantToWork-caption wantToWork-caption2">
-                        <h2>Título</h2>
-                        <p>Texto</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- QUADRADINHOS  -->
-<div class="service-area">
-    <div class="container">
-        <div class="row">
-			
-			<!-- Q1 -->
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-cat text-center mb-50">
-                    <div class="cat-icon">
-                        <img src="../assets/img/icon/services1.svg" alt="">
-                    </div>
-                    <div class="cat-cap">
-                        <h5><a href="services.html">Título</a></h5>
-                        <p>Texto</p>
-                        <a href="services.html" class="plus-btn"><i class="ti-plus"></i></a>
-                    </div>
-                </div>
-            </div>
-			
-			<!-- Q2 -->
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-cat text-center mb-50">
-                    <div class="cat-icon">
-                        <img src="../assets/img/icon/services2.svg" alt="">
-                    </div>
-                    <div class="cat-cap">
-                        <h5><a href="services.html">Título</a></h5>
-                        <p>Texto</p>
-                        <a href="services.html" class="plus-btn"><i class="ti-plus"></i></a>
-                    </div>
-                </div>
-            </div>
-			
-			<!-- Q3 -->
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="single-cat text-center mb-50">
-                    <div class="cat-icon">
-                        <img src="../assets/img/icon/services3.svg" alt="">
-                    </div>
-                    <div class="cat-cap">
-                        <h5><a href="services.html">Título</a></h5>
-                        <p>Texto</p>
-                        <a href="services.html" class="plus-btn"><i class="ti-plus"></i></a>
-                    </div>
-                </div>
-            </div>
-			
-        </div>
-    </div>
-</div>
-<!-- FIM DOS QUADRADINHOS -->
-<!-- FIM DA PARTE 3-->
 
 
 <!-- PARTE 4 (COMENTARIOS) -->
@@ -238,10 +174,10 @@
 <!-- PARTE 5 -->
 <!-- Vídeo -->
 <div class="container">
-    <div class="video-area section-bg2 d-flex align-items-center"  data-background="../assets/img/gallery/video-bg.png">
+    <div class="video-area section-bg2 d-flex align-items-center"  data-background="../assets/img/gallery/foto.jpeg">
         <div class="video-wrap position-relative">
             <div class="video-icon" >
-                <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i class="fas fa-play"></i></a>
+                <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=lCFZt52Uk1Y"><i class="fas fa-play"></i></a>
             </div>
         </div>
     </div>
@@ -252,65 +188,65 @@
 <!-- PARTE 6 -->
 <section class="home-blog-area section-padding30">
     <div class="container">
-	
-        <!-- Título -->
+        <!-- Section Tittle -->
         <div class="row justify-content-center">
             <div class="col-lg-7 col-md-9 col-sm-10">
                 <div class="section-tittle text-center mb-100">
-                    <h2>Título</h2>
+                    <h2>Tipos de deficiência que são o foco principal do nosso projeto</h2>
                 </div>
             </div>
         </div>
-		
-		<!-- BLOCO 1 -->
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog1.png" alt="">
+                            <img src="../assets/img/gallery/deffisica.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">Título</a></h3>
-                            <P>Texto</P>
+                            <h3><a href="https://curitiba.ifpr.edu.br/wp-content/uploads/2013/06/DefFisica_abril.pdf">Deficiência física</a></h3>
+                            <P>Podemos definir a deficiência física como
+                                "diferentes condições motoras que acometem as pessoas comprometendo a mobilidade, 
+                                a coordenação motora geral e da fala, em consequência de lesões neurológicas, neuromusculares, ortopédicas, 
+                                ou más formações congênitas ou adquiridas" (MEC,2004).</P>
                         </div>
                     </div>
                 </div>
             </div>
-			
-			<!-- BLOCO 2 -->
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog2.png" alt="">
+                            <img src="../assets/img/gallery/defvisual.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">Título</a></h3>
-                            <P>Texto</P>
+                            <h3><a href="https://www.justica.pr.gov.br/Pagina/Deficiencia-Visual">Deficiência visual</a></h3>
+                            <P>A deficiência visual é a perda ou redução da capacidade visual em ambos os olhos em caráter definitivo, 
+                                que não pode ser melhorada ou corrigida com o uso de lentes, tratamento clínico ou cirúrgico. 
+                                Existem critérios rígidos para definir uma deficiência. Portanto, uma pessoa com alto grau de miopia, por exemplo, 
+                                não é uma pessoa com deficiência visual, uma vez que existem alternativas para correção desta limitação.</P>
                         </div>
                     </div>
                 </div>
             </div>
-			
-			<!-- BLOCO 3 -->
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog3.png" alt="">
+                            <img src="../assets/img/gallery/defauditiva.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">Título</a></h3>
-                            <P>Texto</P>
+                            <h3><a href="http://portal.mec.gov.br/seed/arquivos/pdf/deficienciaauditiva.pdf">Deficiência auditiva</a></h3>
+                            <P>Consiste na perda parcial ou total da capacidade de detectar sons, causada por má-formação (causa genética), lesão na orelha ou na composição do aparelho auditivo</P>
                         </div>
                     </div>
                 </div>
             </div>
-			
         </div>
     </div>
 </section>
+
+
 <!-- FIM DA PARTE 6 -->
 
 

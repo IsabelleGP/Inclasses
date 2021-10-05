@@ -36,20 +36,20 @@
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
-                            <img src="../assets/img/gallery/team1.png" alt="">
+                            <img src="../assets/img/gallery/susan.jpeg" alt=""> 
                         </div>
                         <div class="cat-cap">
                             <h5><a href="#">Susan Cristini Francalassi</a></h5>
                             <p>Estudante do curso técnico em informática integrado ao ensino médo do Instituto Federal de São Paulo - Campus Campinas</p>
                         </div>
                     </div>
-                </div>
+                </div> 
 				
 				
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
-                            <img src="../assets/img/gallery/team2.png" alt="">
+                           <img src="../assets/img/gallery/ju.jpeg" alt=""> 
                         </div>
                         <div class="cat-cap">
                             <h5><a href="#">Jullia Lorraine Nunes Silva</a></h5>
@@ -62,7 +62,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-cat text-center mb-30">
                         <div class="cat-icon">
-                            <img src="../assets/img/gallery/team3.png" alt="">
+                          <img src="../assets/img/gallery/isa.jpeg" alt="">
                         </div>
                         <div class="cat-cap">
                             <h5><a href="#">Isabelle Galvão Pereira</a></h5>
@@ -84,7 +84,7 @@
                 <div class="col-lg-7 col-md-12">
                     <!-- about-img -->
                     <div class="about-img ">
-                        <img src="../assets/img/gallery/about.png" alt="">
+                        <img src="../assets/img/gallery/inclusao.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12">
@@ -94,7 +94,7 @@
                             <h2>Inclusão e Acessibilidade</h2>
                         </div>
                         <p class="pera-top mb-40">Mídia acessível para inclusão e acessibilidade de uma PcD</p>
-                        <p class="pera-bottom mb-30">descrição do projeto</p>
+                        <p class="pera-bottom mb-30">o projeto busca não só estimular, como também promover questões fundamentais à vida de uma pessoa que apresenta algum tipo de deficiência, cuja carência de inclusão e acessibilidade é incontestável e imprescindível. Assim sendo, o projeto, acima de tudo, busca a inclusão dessa parcela significativa da sociedade que sofre com o preconceito, exílio e capacitismo. Com informações e o incentivo da busca por direitos inseridos nesta plataforma do projeto voltada às PcD’s, a sociedade poderá compreender melhor a importância da inclusão e da acessibilidade desse indivíduo. </p>
 						<!--
                         <div class="icon-about">
 							<img src="../assets/img/icon/about1.svg" alt="" class=" mr-20">
@@ -157,7 +157,8 @@
 </section>
 <!--? Testimonial Area End -->
 
-<!--? NOSSO VÍDEO EXPLICANDO O PROJETO -->
+<!--? NOSSO VÍDEO EXPLICANDO O PROJETO
+
 <div class="container">
     <div class="video-area section-bg2 d-flex align-items-center"  data-background="../assets/img/gallery/video-bg.png">
         <div class="video-wrap position-relative">
@@ -167,60 +168,141 @@
         </div>
     </div>
 </div>
-<!-- video_end -->  
+ video_end -->  
+
+<!-- PARTE 3 -->
+<section class="wantToWork-area section-bg3" data-background="../assets/img/gallery/section_bg01.png">
+    <div class="container">
+        <div class="wants-wrapper w-padding2">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-xl-7 col-lg-9 col-md-8">
+                    <div class="wantToWork-caption wantToWork-caption2">
+                        <h2>Aplicativos que auxiliam PcD's</h2>
+                        <p>Aqui você pode encontrar alguns aplicativos e materiais que, assim como esse projeto, tem o objetivo de auxiliar as pessoas com deficiência em seu dia-a-dia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- QUADRADINHOS  -->
+<div class="service-area">
+    <div class="container">
+        <div class="row">
+			
+			<!-- Q1 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-cat text-center mb-50">
+                    <div class="cat-icon">
+                        <img src="../assets/img/icon/services1.svg" alt="">
+                    </div>
+                    <div class="cat-cap">
+                        <h5><a href="https://www.facebook.com/appcivida/">Civida</a></h5>
+                        <p>É um aplicativo, cujo objetivo é proporcionar aos cidadãos uma alternativa para receber equipamentos de saúde que podem ser emprestados ou doados pela população em geral ou empresas, atendendo assim, a necessidades de portadores de deficiências, como, por exemplo, a obtenção de cadeira de rodas, muletas e aparelhos auditivos.</p>
+                        <a href="https://www.facebook.com/appcivida/" class="plus-btn"><i class="ti-plus"></i></a>
+                    </div>
+                </div>
+            </div>
+			
+			<!-- Q2 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-cat text-center mb-50">
+                    <div class="cat-icon">
+                        <img src="../assets/img/icon/services2.svg" alt="">
+                    </div>
+                    <div class="cat-cap">
+                        <h5><a href="https://www.bemyeyes.com/language/portuguese-brazil">Be My Eyes</a></h5>
+                        <p>É um aplicativo que consiste em ajudar a pessoa com deficiência visual, 
+                            ele possui duas partes indissociáveis, 
+                            uma delas compreende uma pessoa que possui visão e a outra uma pessoa com baixo ou nenhum nível visual, 
+                            sendo assim, a que possui visão, ao ser chamada através software pela PcD, auxilia o mesmo em sua necessidade, auxiliando-o a descrever o que ele precisa.</p>
+                        <a href="https://www.bemyeyes.com/language/portuguese-brazil" class="plus-btn"><i class="ti-plus"></i></a>
+                    </div>
+                </div>
+            </div>
+			
+			<!-- Q3 -->
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-cat text-center mb-50">
+                    <div class="cat-icon">
+                        <img src="../assets/img/icon/services3.svg" alt="">
+                    </div>
+                    <div class="cat-cap">
+                        <h5><a href="https://guiaderodas.com/">Guia de rodas</a></h5>
+                        <p>Tem o intuito de viabilizar rotas acessíveis para pessoas com deficiência física, o aplicativo em 2016 levou o prêmio  “Melhor Iniciativa Digital para Inclusão do Mundo" pelo evento World Summit Awards (WSA), elaborado pela ONU.</p>
+                        <a href="https://guiaderodas.com/" class="plus-btn"><i class="ti-plus"></i></a>
+                    </div>
+                </div>
+            </div>
+			
+        </div>
+    </div>
+</div>
+
+<!-- FIM DOS QUADRADINHOS -->
+<!-- FIM DA PARTE 3-->
 
     
 <!--? Blog Area Start -->
 <section class="home-blog-area section-padding30">
     <div class="container">
-        <!-- Section Tittle -->
+	
+        <!-- Título -->
         <div class="row justify-content-center">
             <div class="col-lg-7 col-md-9 col-sm-10">
                 <div class="section-tittle text-center mb-100">
-                    <h2>O projeto</h2>
+                    <h2>Principais objetivos do projeto</h2>
                 </div>
             </div>
         </div>
+		
+		<!-- BLOCO 1 -->
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog1.png" alt="">
+                            <img src="../assets/img/gallery/info.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">título</a></h3>
-                            <P>texto</P>
+                            <h3>Informações</h3>
+                            <P>Coletar informações e colocar expostas no site as dificuldades que uma pessoa com deficiência enfrenta em seu cotidiano</P>
                         </div>
                     </div>
                 </div>
             </div>
+			
+			<!-- BLOCO 2 -->
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog2.png" alt="">
+                            <img src="../assets/img/gallery/acess.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">titulo</a></h3>
-                            <P>texto</P>
+                            <h3>Acessibilidade</h3>
+                            <P>Informar no site, locais públicos onde os usuários possam qualificar a acessibilidade</P>
                         </div>
                     </div>
                 </div>
             </div>
+			
+			<!-- BLOCO 3 -->
             <div class="col-lg-4 col-md-6">
                 <div class="home-blog-single mb-40">
                     <div class="blog-img-cap">
                         <div class="blog-img">
-                            <img src="../assets/img/gallery/blog3.png" alt="">
+                            <img src="../assets/img/gallery/faci.jpg" alt="">
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">titulo</a></h3>
-                            <P>texto</P>
+                            <h3>Facilidade</h3>
+                            <P>Facilitar, através do site, a troca de informações de cunho essencial para as PcD's</P>
                         </div>
                     </div>
                 </div>
             </div>
+			
         </div>
     </div>
 </section>
@@ -244,7 +326,7 @@
                     <!-- about-img -->
                     <div class="about-img">
                         <div class="about-font-img">
-                            <img src="../assets/img/gallery/about2.png" alt="">
+                            <img src="../assets/img/gallery/comentarios.jpg" alt="">
                         </div>
                     </div>
                 </div>
