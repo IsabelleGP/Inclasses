@@ -9,7 +9,7 @@
 
 <main>
     <!--? Slider Area Start-->
-    <div class="slider-area slider-area2">
+    <div class="slider-area ">
         <div class="slider-active dot-style">
             <!-- Slider Single -->
             <div class="single-slider  d-flex align-items-center slider-height2">
@@ -79,7 +79,7 @@
                 <h2 class="contact-title">Faça aqui seu comentário</h2>
             </div>
             <div class="col-lg-8">
-                <form class="form-contact contact_form" action="../contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                <form class="form-contact contact_form" action="cadastrarComentarios.php" method="post" id="contactForm" novalidate="novalidate">
                     <div class="row">
                         <div class="col-12">
                             <div class="form-group">
@@ -98,7 +98,7 @@
                         </div>
                         <div class="col-12">
                             <div class="form-group">
-                                <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Digite sua senha">
+                                <input class="form-control" name="password" id="password" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Digite sua senha">
                             </div>
                         </div>
                     </div>

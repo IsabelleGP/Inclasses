@@ -9,7 +9,7 @@
 	
     <main>
         <!--? Slider Area Start-->
-        <div class="slider-area slider-area2">
+        <div class="slider-area  ">
             <div class="slider-active dot-style">
                 <!-- Slider Single -->
                 <div class="single-slider  d-flex align-items-center slider-height2">

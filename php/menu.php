@@ -11,7 +11,7 @@
 </div>
 <!-- Preloader Start -->
 
-<!-- CABEÇALHO -->
+<!-- CABEÇALO -->
     <header>
         <!--? Header Start -->
         <div class="header-area">

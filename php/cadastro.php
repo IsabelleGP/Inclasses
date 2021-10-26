@@ -9,10 +9,10 @@
 
 <main>
     <!--? Slider Area Start-->
-    <div class="slider-area slider-area2">
+    <div class="slider-area  ">
         <div class="slider-active dot-style">
-            <!-- Slider Single -->
-            <div class="single-slider  d-flex align-items-center slider-height2">
+           <!--  Slider Single -->
+        <div class="single-slider  d-flex align-items-center slider-height2"> 
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10 ">
@@ -96,8 +96,8 @@
                             <div class="form-group">
 								<select name="sexo" id="sexo">
 									<option value="">Informe seu sexo</option>
-									<option value="fisica">Feminino</option>
-									<option value="visual">Masculino</option>									
+									<option value="F">Feminino</option>
+									<option value="M">Masculino</option>									
                                 </select>
                             </div>
                         </div>
@@ -115,7 +115,7 @@
 									<option value="visual">Visual</option>
 									<option value="mental">Mental</option>
 									<option value="auditiva">Auditiva</option>
-									<option value="para_cere">Paralisia cerebral</option>
+									<option value="paralisia_cerebral">Paralisia cerebral</option>
                                 </select>
                             </div>
                         </div>
@@ -127,7 +127,7 @@
                         </div>
                         <div class="col-6">
                             <div class="form-group">
-                                <input class="form-control" name="senha" id="senha" type="password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Digite sua senha">
+                                <input class="form-control" name="senha" id="senha" type="password" min="5" max="15" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Digite sua senha">
                             </div>
                         </div>
 						
