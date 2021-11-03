@@ -72,14 +72,13 @@
             </script>
             <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
             </script>
-            
         </div>
         <div class="row">
             <div class="col-12">
                 <h2 class="contact-title">Faça aqui seu comentário</h2>
             </div>
             <div class="col-lg-8">
-                <form class="form-contact contact_form" action="cadastrarComentarios.php" method="post" id="contactForm" novalidate="novalidate">
+                <form class="form-contact contact_form" action="cadastrarComentarios.php" method="post" id="commentsForm" >
                     <div class="row">
                         <div class="col-12">
                             <div class="form-group">

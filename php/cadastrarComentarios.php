@@ -18,7 +18,7 @@
                         <div class="col-xl-7 col-lg-8 col-md-10 ">
                          <div class="hero-wrapper">
                             <div class="hero__caption">
-                                <h1 data-animation="fadeInUp" data-delay=".3s">Seu Cadastro</h1>
+                                <h1 data-animation="fadeInUp" data-delay=".3s">Comentários</h1>
                                 <p data-animation="fadeInUp" data-delay=".6s"></p>
                             </div>
                         </div>
@@ -41,22 +41,26 @@
 						<h1>
 
 							<?php
-
+                ini_set('display_errors', 1);
+                error_reporting(E_ALL);
+                $nome = $_POST['name'];
 								$message = $_POST['message'];
 								$email = $_POST['email'];
 								$password = $_POST['password'];
+                echo "Cheguei no cadastra comments";
+                echo $message.$email.$password;
 											
 													
-								if (!$message || !$email || !$senha){
+								if (!$message || !$email){
 									die( 'voce não preencheu todos os dados. Repita o cadastro novamente<br />');
 								}
 													
-								$db = mysqli_connect('localhost:3306','root','','cadastro_bd'); 
+								$db = mysqli_connect('localhost:3306','admin','ifsp@1234','store'); 
 								if (!$db){
 									die('não encontrei o servidor');
 								}
 													
-								$query = "insert into comentarios (nome, email, message) values ('$nome', '$email', '$message')";
+								$query = "insert into comentarios (nome, email, mensagem) values ('$nome', '$email', '$message')";
 								$result = mysqli_query($db,$query);
 								if ($result){
 									echo  mysqli_affected_rows($db).' cadastro realizado com sucesso. Agora fique à vontade para compartilhar seus comentários conosco</br>'; 
